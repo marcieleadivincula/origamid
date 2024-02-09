@@ -1,0 +1,11 @@
+{
+  "name": "origamid",
+  "version": "1.0.0",
+  "description": "Projeto realizado no curso de Front-End da Origamid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marciele Adivincula",
+  "license": "ISC"
+}
